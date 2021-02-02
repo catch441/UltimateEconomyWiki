@@ -1,0 +1,46 @@
+#header-container {
+    background-color: #663D18;
+    padding-top: 1.5em;
+    padding-bottom: 2.5em;
+}
+
+#header-pic-container {
+    border-radius: 50em;
+    border-width: 0.5em;
+    border-color: #F2C124;
+    border-style: solid;
+    height: 125px;
+    width: 125px;
+    margin: auto;
+}
+
+#icon-container {
+    height: 100%;
+    width: 100%;
+    border-radius: 50em;
+    background-color: #FFF1C3;
+}
+
+#icon {
+    width: 7em;
+    position: relative;
+    bottom: 0.5em;
+}
+
+#title-text-container {
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+#title-text {
+    color: #F2C124;
+    text-shadow: 0.1em 0.1em#876D1B;
+    font-size: 1.75em;
+    margin-bottom: 0;
+}
+
+#subtitle-text {
+    font-size: 1em;
+    color: #FFF1C3;
+    margin-top: 1em;
+}

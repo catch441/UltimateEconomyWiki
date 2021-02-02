@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Dodge;
+    src: url(fonts/DODGE.ttf);
+  }
+  
+.ft-dodge {
+    font-family: Dodge;
+}

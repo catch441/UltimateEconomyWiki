@@ -1,0 +1,37 @@
+#navbar-container {
+    background-color: #AF6D31;
+}
+
+#toggle {
+    margin-left: 80%;
+    background-color: #F2C124;
+}
+
+.text {
+    color: #FFF1C3;
+}
+
+@media (max-width: 767px) {
+    #nav {
+        margin-top: 1em;
+    }
+    .pill {
+        margin-bottom: 0.5em;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+.pill {
+    border-radius: 25em;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    background-color: #F2C124;
+    padding: 0.2em;
+    text-align: center;
+}
+
+#nav {
+    margin-left: auto;
+    margin-right: auto;
+}
