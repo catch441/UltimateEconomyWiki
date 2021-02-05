@@ -1,0 +1,26 @@
+#footer-container {
+    background-color: #724113;
+    width: 100%;
+}
+
+.bar-mt {
+    margin-top: 1.5em;
+}
+
+.bar-mb {
+    margin-top: 1.5em;
+}
+
+.footer-text {
+    color: #FFF1C3;
+    text-align: center;
+    font-size: 1em;
+    margin: 0em;
+}
+
+.footer-icon {
+    color: #F2C124;
+    text-align: center;
+    font-size: 2em;
+    margin: 0em;
+}
