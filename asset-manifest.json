@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/UltimateEconomyWiki/static/css/main.c6859981.chunk.css",
+    "main.js": "/UltimateEconomyWiki/static/js/main.e5e17f2a.chunk.js",
+    "main.js.map": "/UltimateEconomyWiki/static/js/main.e5e17f2a.chunk.js.map",
+    "runtime-main.js": "/UltimateEconomyWiki/static/js/runtime-main.4706968d.js",
+    "runtime-main.js.map": "/UltimateEconomyWiki/static/js/runtime-main.4706968d.js.map",
+    "static/css/2.45eb0d68.chunk.css": "/UltimateEconomyWiki/static/css/2.45eb0d68.chunk.css",
+    "static/js/2.ad32969c.chunk.js": "/UltimateEconomyWiki/static/js/2.ad32969c.chunk.js",
+    "static/js/2.ad32969c.chunk.js.map": "/UltimateEconomyWiki/static/js/2.ad32969c.chunk.js.map",
+    "static/js/3.913a2924.chunk.js": "/UltimateEconomyWiki/static/js/3.913a2924.chunk.js",
+    "static/js/3.913a2924.chunk.js.map": "/UltimateEconomyWiki/static/js/3.913a2924.chunk.js.map",
+    "index.html": "/UltimateEconomyWiki/index.html",
+    "static/css/2.45eb0d68.chunk.css.map": "/UltimateEconomyWiki/static/css/2.45eb0d68.chunk.css.map",
+    "static/css/main.c6859981.chunk.css.map": "/UltimateEconomyWiki/static/css/main.c6859981.chunk.css.map",
+    "static/js/2.ad32969c.chunk.js.LICENSE.txt": "/UltimateEconomyWiki/static/js/2.ad32969c.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/UltimateEconomyWiki/static/media/DODGE.af212d9d.ttf",
+    "static/media/icon.9ead2e81.png": "/UltimateEconomyWiki/static/media/icon.9ead2e81.png",
+    "static/media/player.e444bf03.png": "/UltimateEconomyWiki/static/media/player.e444bf03.png",
+    "static/media/shop.3ee62dc3.png": "/UltimateEconomyWiki/static/media/shop.3ee62dc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4706968d.js",
+    "static/css/2.45eb0d68.chunk.css",
+    "static/js/2.ad32969c.chunk.js",
+    "static/css/main.c6859981.chunk.css",
+    "static/js/main.e5e17f2a.chunk.js"
+  ]
+}
