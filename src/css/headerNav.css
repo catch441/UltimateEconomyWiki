@@ -8,31 +8,34 @@
 }
 
 .text {
-    color: #FFF1C3;
+    color: #4f2906;
 }
 
 @media (max-width: 767px) {
     #nav {
         margin-top: 1em;
-        width: 40%;
+        width: 50%;
         margin-left: auto;
         margin-right: auto;
     }
     .pill {
-        margin-bottom: 0.5em;
-        border-radius: 25em;
-        margin-left: 0.25em;
-        margin-right: 0.25em;
+        margin-bottom: 1em;
+        border-radius: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
         background-color: #F2C124;
         padding: 0.2em;
         padding-right: 2em;
         padding-left: 2em;
         text-align: center;
     }
+    .pill:hover {
+        background-color: #ffcc2b;
+    }
 }
 
 .pill {
-    border-radius: 25em;
+    border-radius: 1em;
     margin-left: 0.25em;
     margin-right: 0.25em;
     background-color: #F2C124;
@@ -40,9 +43,19 @@
     padding-right: 2em;
     padding-left: 2em;
     text-align: center;
+    width: 10em;
+}
+
+.pill:hover {
+    background-color: #ffcc2b;
 }
 
 #nav {
     margin-left: auto;
     margin-right: auto;
+}
+
+.my-navlink {
+    color: #663D18;
+    background-color: #ffcc2b;
 }

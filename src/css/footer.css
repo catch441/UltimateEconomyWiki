@@ -1,10 +1,14 @@
 #footer-container {
     background-color: #724113;
-    position: fixed;
-    bottom: 0em;
     width: 100%;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
+}
+
+.bar-mt {
+    margin-top: 1.5em;
+}
+
+.bar-mb {
+    margin-top: 1.5em;
 }
 
 .footer-text {
@@ -15,7 +19,7 @@
 }
 
 .footer-icon {
-    color: #FFF1C3;
+    color: #F2C124;
     text-align: center;
     font-size: 2em;
     margin: 0em;
