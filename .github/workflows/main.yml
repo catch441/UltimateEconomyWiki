@@ -17,6 +17,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Install Packages
       run: npm install
+    - name: Install aditional Packages
+      run: npm install react-bootstrap/NavDropDown
     - name: Build page
       run: npm run build
     - name: Deploy to gh-pages
