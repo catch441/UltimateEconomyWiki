@@ -16,7 +16,7 @@ function HeaderNav() {
         <Navbar.Collapse>
           <Nav id="nav">
             <Nav.Item className="pill">
-              <Nav.Link><Link to="/plugin-info" className="text">Plugin Info</Link></Nav.Link>
+              <Nav.Link><Link to="/" className="text">Plugin Info</Link></Nav.Link>
             </Nav.Item>
             <Nav.Item className="pill">
               <Nav.Link><Link to="/about" className="text">About</Link></Nav.Link>

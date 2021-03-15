@@ -15,12 +15,6 @@ function App() {
   return (
     <Router>
       <Switch>
-          <Route path="/plugin-info">
-            <Header />
-            <HeaderNav />
-            <PluginInfo />
-            <Footer />
-          </Route>
           <Route path="/about">
             <Header />
             <HeaderNav />
@@ -37,7 +31,10 @@ function App() {
             <Footer />
           </Route>
           <Route path="/">
-            <Redirect to="/plugin-info" />
+            <Header />
+            <HeaderNav />
+            <PluginInfo />
+            <Footer />
           </Route>
         </Switch>
     </Router>
